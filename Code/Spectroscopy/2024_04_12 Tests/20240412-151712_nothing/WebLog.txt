@@ -1,0 +1,12 @@
+2024/04/12 15:17:18> New measurement dir: /media/SD_Card/PolarisData/20240412-151712_nothing
+2024/04/12 15:17:18> Create new ANSI file: /media/SD_Card/PolarisData/20240412-151712_nothing/nothing.n42
+2024/04/12 15:17:26> Isotope Detected: Unknown:45_keV (11746480424351019280)
+2024/04/12 15:17:28> Isotope Un-Detected: Unknown:45_keV (11746480424351019280)
+2024/04/12 15:17:40> Isotope Detected: Unknown:43_keV (11746477611533761018)
+2024/04/12 15:17:43> Isotope Un-Detected: Unknown:43_keV (11746477611533761018)
+2024/04/12 15:17:46> Isotope Detected: Unknown:43_keV (11746477611533761018)
+2024/04/12 15:18:02> Isotope Un-Detected: Unknown:43_keV (11746477611533761018)
+2024/04/12 15:18:02> Isotope Detected: Unknown:45_keV (11746480424351019280)
+2024/04/12 15:18:27> Isotope Detected: Cs-137 (11825605134216413928)
+2024/04/12 15:18:58> Saving state(-1): /media/SD_Card/PolarisData/20240412-151712_nothing/20240412-151858_SS
+2024/04/12 15:18:59> Stopping measurement.

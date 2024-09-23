@@ -1,0 +1,4 @@
+2024/04/01 15:34:09> New measurement dir: /media/SD_Card/PolarisData/20240401-153402_Cs-137_2024-04-01
+2024/04/01 15:34:09> Create new ANSI file: /media/SD_Card/PolarisData/20240401-153402_Cs-137_2024-04-01/Cs-137_2024-04-01.n42
+2024/04/01 15:45:03> Saving state(-1): /media/SD_Card/PolarisData/20240401-153402_Cs-137_2024-04-01/20240401-154503_SS
+2024/04/01 15:45:04> Stopping measurement.
